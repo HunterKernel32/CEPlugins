@@ -1,7 +1,8 @@
 # CEPlugins
 CE各种插件
-BronzeSword - 无视驱动保护
-ShowDebugMsg - 显示调试信息窗口
+# BronzeSword - 无视驱动保护
+支持64位win7、win10、win11系统
+# ShowDebugMsg - 显示调试信息窗口
 用法：
 
     将文件放入CE文件夹中
